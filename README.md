@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/sahutushar/sahutushar/main/hero-banner.png" alt="Hero Banner"/>
+![Banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&pause=9999&color=00F5FF&center=true&vCenter=true&width=1000&height=120&lines=Tushar+Sahu&background=0B0F19)
+
+![Banner Sub](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=9999&color=ffffff&center=true&vCenter=true&width=1000&height=60&lines=Full+Stack+%7C+AI%2FML+%7C+Cloud+%26+DevOps+Engineer&background=0B0F19)
 
 <br/>
 
