@@ -1,49 +1,58 @@
+<svg width="1000" height="280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0B0F19"/>
+      <stop offset="25%"  stop-color="#00F5FF"/>
+      <stop offset="50%"  stop-color="#7B2EFF"/>
+      <stop offset="75%"  stop-color="#00F5FF"/>
+      <stop offset="100%" stop-color="#0B0F19"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0B0F19" stop-opacity="0.9"/>
+      <stop offset="50%"  stop-color="#7B2EFF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0B0F19" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
 
-      <svg
-        width="854"
-        height="280"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 280"
-      >
-        <style>
-      .text {   font-size: 55px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 18px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#0B0F19"/><stop offset="25%" stop-color="#00F5FF"/><stop offset="50%" stop-color="#7B2EFF"/><stop offset="75%" stop-color="#00F5FF"/><stop offset="100%" stop-color="#0B0F19"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 140) scale(1, 1) translate(-427, -140)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 200Q 213.5 240 427 210T 854 235L 854 0 Z;M0 0L 0 225Q 213.5 240 427 220T 854 210L 854 0 Z;M0 0L 0 245Q 213.5 215 427 245T 854 210L 854 0 Z;M0 0L 0 200Q 213.5 240 427 210T 854 235L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 215Q 213.5 260 427 230T 854 240L 854 0 Z;M0 0L 0 230Q 213.5 200 427 200T 854 220L 854 0 Z;M0 0L 0 225Q 213.5 205 427 230T 854 245L 854 0 Z;M0 0L 0 215Q 213.5 260 427 230T 854 240L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="40%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Tushar Sahu</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="60%" class="desc" style="fill:#ffffff;">Full Stack | AI/ML | Cloud & DevOps Engineer</text>
-      </svg>
-    
+  <!-- Background -->
+  <rect width="1000" height="280" fill="url(#bg)"/>
+
+  <!-- Dark overlay for readability -->
+  <rect width="1000" height="280" fill="#0B0F19" opacity="0.55"/>
+
+  <!-- Wave shape bottom -->
+  <path d="M0 180 Q 250 230 500 200 T 1000 220 L1000 280 L0 280 Z" fill="#0B0F19" opacity="0.7"/>
+  <path d="M0 200 Q 250 170 500 210 T 1000 195 L1000 280 L0 280 Z" fill="url(#wave1)" opacity="0.4"/>
+
+  <!-- Cyan glow circle left -->
+  <circle cx="80" cy="80" r="60" fill="#00F5FF" opacity="0.07"/>
+  <!-- Purple glow circle right -->
+  <circle cx="920" cy="180" r="80" fill="#7B2EFF" opacity="0.1"/>
+
+  <!-- Name -->
+  <text
+    x="500" y="115"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="58"
+    font-weight="700"
+    fill="#ffffff"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    style="letter-spacing:2px"
+  >Tushar Sahu</text>
+
+  <!-- Cyan underline accent -->
+  <rect x="350" y="132" width="300" height="3" rx="2" fill="#00F5FF" opacity="0.8"/>
+
+  <!-- Subtitle -->
+  <text
+    x="500" y="175"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="19"
+    font-weight="400"
+    fill="#00F5FF"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    style="letter-spacing:1px"
+  >Full Stack  |  AI/ML  |  Cloud &amp; DevOps Engineer</text>
+</svg>
