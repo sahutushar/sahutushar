@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:00F5FF,100:7B2EFF&height=250&section=header&text=Tushar%20Sahu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=20&descColor=ffffff" alt="Hero Banner"/>
+<img width="100%" src="https://svg-banners.vercel.app/api?type=luminance&text1=Tushar%20Sahu&text2=%F0%9F%9A%80%20Full%20Stack%20%7C%20AI%2FML%20%7C%20Cloud%20%26%20DevOps%20Engineer&width=1000&height=200" alt="Hero Banner"/>
 
 <br/>
 
@@ -402,7 +402,7 @@ I am actively looking for opportunities where I can work on **Software Engineeri
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:00F5FF,50:7B2EFF,75:00F5FF,100:0B0F19&height=120&section=footer"/>
+<img width="100%" src="https://svg-banners.vercel.app/api?type=luminance&text1=Let%27s%20Build%20Together&text2=%E2%9D%A4%EF%B8%8F%20Open%20to%20Collaborate&width=1000&height=120" alt="Footer Banner"/>
 
 </div>
 
