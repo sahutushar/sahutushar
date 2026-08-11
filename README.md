@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:00F5FF,50:7B2EFF,75:00F5FF,100:0B0F19&height=280&section=header&text=Tushar%20Sahu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descSize=18&descColor=00F5FF" alt="Hero Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=280&section=header&text=Tushar%20Sahu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descSize=18&descColor=00F5FF" alt="Hero Banner"/>
 
 <br/>
 
@@ -335,19 +335,19 @@ CURRENT_FOCUS:
 
 ### 📈 **GitHub Stats**
 
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahutushar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=7B2EFF&count_private=true&include_all_commits=true)
+![Tushar's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sahutushar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=7B2EFF&count_private=true&include_all_commits=true)
 
 <br/>
 
 ### 🗣️ **Most Used Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahutushar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&count_private=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sahutushar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&count_private=true)
 
 <br/>
 
 ### 🏅 **GitHub Trophies**
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sahutushar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/sahutushar)
+[![GitHub Trophies](https://github-trophies.vercel.app/?username=sahutushar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1)](https://github.com/sahutushar)
 
 <br/>
 
