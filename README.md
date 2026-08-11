@@ -241,26 +241,7 @@ A RAG system designed for document ingestion, semantic retrieval, and LLM-powere
 </td>
 </tr>
 
-<tr>
-<td width="50%">
 
-### 📊 **Blinkit Sales Dashboard**
-*Power BI Data Analytics Dashboard*
-
-Interactive dashboard analyzing sales performance, customer behavior, payment methods, products, and customer feedback.
-
-**Tech:** Power BI • MySQL • Data Analysis • Data Visualization
-
-- Analyzed 2023 vs 2024 sales trends
-- Customer segmentation and retention analysis
-- Payment methods and top-performing products analysis
-- Customer feedback and sentiment visualizations
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
 </table>
 
 ---
