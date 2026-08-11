@@ -335,13 +335,13 @@ CURRENT_FOCUS:
 
 ### 📈 **GitHub Stats**
 
-![Tushar's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sahutushar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=7B2EFF&count_private=true&include_all_commits=true)
+![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahutushar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=7B2EFF&count_private=true&include_all_commits=true&rank_icon=github)
 
 <br/>
 
 ### 🗣️ **Most Used Languages**
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sahutushar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahutushar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&count_private=true&langs_count=8)
 
 <br/>
 
