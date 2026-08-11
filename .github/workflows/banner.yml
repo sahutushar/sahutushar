@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Convert SVG to PNG
         run: |
@@ -26,4 +28,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add hero-banner.png
           git diff --cached --quiet || git commit -m "chore: regenerate hero-banner.png from SVG"
-          git push
+          git push origin main
