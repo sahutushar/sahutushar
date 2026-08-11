@@ -329,25 +329,25 @@ CURRENT_FOCUS:
 
 ### 🔥 **Contribution Streak**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sahutushar&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)](https://github.com/sahutushar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahutushar&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)](https://github.com/sahutushar)
 
 <br/>
 
 ### 📈 **GitHub Stats**
 
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahutushar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=7B2EFF)
+![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahutushar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=7B2EFF&count_private=true)
 
 <br/>
 
 ### 🗣️ **Most Used Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahutushar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahutushar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&count_private=true)
 
 <br/>
 
 ### 🏅 **GitHub Trophies**
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sahutushar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/sahutushar)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sahutushar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/sahutushar)
 
 <br/>
 
