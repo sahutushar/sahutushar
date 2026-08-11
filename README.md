@@ -347,7 +347,7 @@ CURRENT_FOCUS:
 
 ### 🏅 **GitHub Trophies**
 
-[![GitHub Trophies](https://github-trophies.vercel.app/?username=sahutushar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1)](https://github.com/sahutushar)
+[![GitHub Trophies](https://github-trophies.vercel.app/?username=sahutushar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/sahutushar)
 
 <br/>
 
@@ -360,9 +360,9 @@ CURRENT_FOCUS:
 ### 🐍 **Contribution Snake**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahutushar/sahutushar/main/dist/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahutushar/sahutushar/main/dist/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sahutushar/sahutushar/main/dist/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
